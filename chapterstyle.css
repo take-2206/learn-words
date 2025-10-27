@@ -1,0 +1,43 @@
+body{
+    background-color: #f8eade;
+    font-family: "Dream";
+    font-weight: lighter;
+      display: flex;
+      align-items: center;
+  justify-content: center;  /* căn giữa ngang */
+  
+  height: 100vh; 
+}
+
+.l1{
+    height: 120px;
+    width: 250px;
+    border-radius: 20px;
+    border: transparent;
+    background-color: #dde5ed;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.15);
+    
+    
+    color: #6c4d38; 
+    font-size: 30px; 
+    font-family: "DREAM"; 
+    text-align: center;
+    
+    
+    
+}
+
+
+
+button{
+    border-radius: 20px;
+    width: 70%;
+    border: transparent;
+    background-color: #c3ddf1;
+    color: #004e89;
+    
+
+}
+button:hover{
+     cursor: pointer;
+}
