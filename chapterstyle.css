@@ -27,15 +27,21 @@ body{
     
 }
 
+p{
+   position: relative;
+   top: 20%;
+}
+
 
 
 button{
     border-radius: 20px;
     width: 70%;
+    height: 30px;
     border: transparent;
     background-color: #c3ddf1;
     color: #004e89;
-    
+    margin-top: -20%;
 
 }
 button:hover{
